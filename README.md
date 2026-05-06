@@ -1,4 +1,4 @@
-### Line-Following-Parking-Robot-AVR-Assembly
+### Line Following and Parking Robot (AVR Assembly)
 
 ### Overview
 This repository contains the full hardware design and register-level firmware for an autonomous robot developed for the Embedded Systems Design (IE3064) module at SLIIT. The system is built around the ATmega328P (Arduino Uno) and is programmed entirely in AVR Assembly to achieve high-performance, low-level control without the use of standard Arduino C++ libraries.  
