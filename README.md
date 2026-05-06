@@ -46,3 +46,15 @@ Power: 2x 3.7V Rechargeable batteries with a DC-DC Buck Converter for a stable 5
 
 
 ![Robot](robo1.png)
+
+
+
+### Tools Used
+
+Simulation: Proteus 8 Professional
+Schematic Design: KiCad
+Documentation: Microsoft Word
+
+### Contact
+
+GitHub: @mohomednasif614 
